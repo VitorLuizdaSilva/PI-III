@@ -1,4 +1,5 @@
 .venv
-
 projeto/
 manage.py
+livraria/
+conexao_postgre.py
